@@ -34,7 +34,7 @@ Sou Gabriel, curso Sistemas de Informação na Universidade Presbiteriana Mackez
 
 <p>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabasMarketing&layout=compact&langs_count=8&theme=dark"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabasMarketing&layout=compact&langs_count=8&theme=dark&cache_seconds=60"/>
 
 </p>
 
