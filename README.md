@@ -1,7 +1,12 @@
 # Gabriel Labarca Del Bianco
 
 
-Sou Gabriel, curso Sistemas de Informação na Universidade Presbiteriana Mackeznie, gosto muito de trabalhar em equipe, sou proativo e estou em busca em um emprego na área de TI, adoro programação em projetos práticos que promovem soluções reais, mas também gosto da parte de negócio de software acredito que o domínio nessas duas partes seja a chave para o sucesso.
+Olá!! Sou Gabriel, curso Sistemas de Informação na Universidade Presbiteriana Mackeznie.
+
+Gosto muito de trabalhar em equipe, sou proativo e também gosto tento da parte de negócio de software, quanto a programação em si, pois acredito que o domínio nessas duas partes seja a chave para o sucesso.
+
+No momento, estou em busca em um emprego na área de TI, para fazer projetos práticos que promovem soluções reais.
+
 
 ---
 
