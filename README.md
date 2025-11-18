@@ -5,7 +5,7 @@ Olá!! Sou Gabriel, estou cursando Sistemas de Informação na Universidade Pres
 
 Gosto muito de trabalhar em equipe, sou proativo e também gosto tanto da parte de negócios de software, quanto a programação em si, pois acredito que o domínio nessas duas partes seja a chave para o sucesso.
 
-No momento, estou em busca em um emprego na área de TI, para fazer projetos práticos que promovem soluções reais para aprimorar meus conhecimentos.
+No momento, estou em busca em um emprego na área de TI, para realizar projetos práticos que promovem soluções reais para aprimorar meus conhecimentos.
 
 
 ---
