@@ -1,7 +1,7 @@
 # Gabriel Labarca Del Bianco
 
 
-Olá!! Sou Gabriel, curso Sistemas de Informação na Universidade Presbiteriana Mackeznie.
+Olá!! Sou Gabriel, estou cursando Sistemas de Informação na Universidade Presbiteriana Mackeznie.
 
 Gosto muito de trabalhar em equipe, sou proativo e também gosto tanto da parte de negócios de software, quanto a programação em si, pois acredito que o domínio nessas duas partes seja a chave para o sucesso.
 
