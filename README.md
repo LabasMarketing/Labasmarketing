@@ -5,7 +5,7 @@ Olá!! Sou Gabriel, curso Sistemas de Informação na Universidade Presbiteriana
 
 Gosto muito de trabalhar em equipe, sou proativo e também gosto tanto da parte de negócios de software, quanto a programação em si, pois acredito que o domínio nessas duas partes seja a chave para o sucesso.
 
-No momento, estou em busca em um emprego na área de TI, para fazer projetos práticos que promovem soluções reais para aprimorarmeus conhecimentos.
+No momento, estou em busca em um emprego na área de TI, para fazer projetos práticos que promovem soluções reais para aprimorar meus conhecimentos.
 
 
 ---
