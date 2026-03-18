@@ -34,6 +34,25 @@ No momento, estou em busca de uma vaga na área de TI, para realizar projetos pr
 
 <img align="left" alt="Typescript" title="Typescript" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+<img align="left" alt="Google Cloud" title="Google Cloud" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+
+<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
+<img align="left" alt="Oracle" title="Oracle" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+
 
 <br/> <br/>
 
