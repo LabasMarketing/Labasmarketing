@@ -80,6 +80,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LabasMarketing&repo=Gestao-de-OKRS&theme=dark" />
 </a>
 
+## Contato
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-labarca-del-bianco-30908532a/">
         <img 
