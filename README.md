@@ -67,6 +67,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabasMarketing&layout=compact&langs_count=8&theme=dark&cache_seconds=60"/>
+    &nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=LabasMarketing&show_icons=true&theme=dark&cache_seconds=60"/>
 </div>
 
@@ -75,7 +76,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo
 <a href="https://github.com/LabasMarketing/APOFlow-Mackenzie">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LabasMarketing&repo=APOFlow-Mackenzie&theme=dark" />
 </a>
-
+&nbsp;
 <a href="https://github.com/LabasMarketing/Gestao-de-OKRS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LabasMarketing&repo=Gestao-de-OKRS&theme=dark" />
 </a>
