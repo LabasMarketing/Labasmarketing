@@ -3,7 +3,7 @@
 
 Olá! Sou Gabriel, estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie.
 
-Tenho interesse tanto em desenvolvimento de software, com foco em backend, cloud computing e construção de sistemas, quanto na área de dados, envolvendo análise, SQL, Excel, Power BI, inteligência artificial e machine learning.
+Tenho interesse tanto em desenvolvimento de software full stack, cloud computing e construção de sistemas, quanto na área de dados, envolvendo análise, SQL, Excel, Power BI, inteligência artificial e machine learning.
 
 Gosto de entender como tecnologia e negócios se conectam, buscando criar soluções práticas que resolvam problemas reais, automatizem processos e apoiem a tomada de decisão.
 
